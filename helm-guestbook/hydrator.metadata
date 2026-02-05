@@ -2,6 +2,6 @@
   "repoURL": "https://github.com/boostrack/argocd-example-apps",
   "drySha": "723b86e01bea11dcf72316cb172868fcbf05d69e",
   "commands": [
-    "helm template . --name-template cluster-1-helm-guestbook --include-crds"
+    "helm template . --name-template c3-helm-guestbook --include-crds"
   ]
 }

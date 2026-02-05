@@ -6,5 +6,5 @@ To hydrate the manifests in this repository, run the following commands:
 git clone https://github.com/boostrack/argocd-example-apps
 # cd into the cloned directory
 git checkout 723b86e01bea11dcf72316cb172868fcbf05d69e
-helm template . --name-template cluster-1-helm-guestbook --include-crds
+helm template . --name-template c3-helm-guestbook --include-crds
 ```
