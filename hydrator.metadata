@@ -1,0 +1,7 @@
+{
+  "repoURL": "https://github.com/boostrack/argocd-example-apps",
+  "drySha": "b96db46ca72d50706a4f86346917c73f18afa34e",
+  "author": "boostrack <boostrack@users.noreply.github.com>",
+  "date": "2026-02-06T00:24:26Z",
+  "subject": "Update guestbook-ui.jsonnet"
+}
